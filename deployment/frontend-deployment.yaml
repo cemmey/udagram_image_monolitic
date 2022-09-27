@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: docker.io/cemmey/udagram-frontend:v8
+        image: docker.io/cemmey/udagram-frontend:v9
         ports: 
         - containerPort: 80
         resources:
