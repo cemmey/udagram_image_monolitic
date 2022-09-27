@@ -5,9 +5,9 @@ metadata:
 data:
   POSTGRES_USERNAME: postgres
   POSTGRES_PASSWORD: johnson123
-  POSTGRES_HOST: database-2.criwxeuncfn8.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: database-1.clfephdr8hjb.us-east-1.rds.amazonaws.com
   POSTGRES_DB: postgres
-  AWS_BUCKET: monolitic123456789
+  AWS_BUCKET: monolitic1234567890
   AWS_REGION: us-east-1
   AWS_PROFILE: default
   JWT_SECRET: hello
