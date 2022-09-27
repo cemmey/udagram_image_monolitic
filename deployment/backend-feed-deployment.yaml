@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend-feed
-        image: docker.io/cemmey/udagram-api-feed
+        image: docker.io/cemmey/udagram-api-feed:v7
         ports:
         - containerPort: 80
         resources:
